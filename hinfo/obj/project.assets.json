@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chamarthis\\Documents\\GitHub\\SaiExplore\\hinfo\\hinfo.csproj",
+      "projectUniqueName": "C:\\Users\\chamarthis\\Documents\\GitHub\\SaiExplore\\Sai\\hinfo\\hinfo.csproj",
       "projectName": "hinfo",
-      "projectPath": "C:\\Users\\chamarthis\\Documents\\GitHub\\SaiExplore\\hinfo\\hinfo.csproj",
+      "projectPath": "C:\\Users\\chamarthis\\Documents\\GitHub\\SaiExplore\\Sai\\hinfo\\hinfo.csproj",
       "packagesPath": "C:\\Users\\chamarthis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chamarthis\\Documents\\GitHub\\SaiExplore\\hinfo\\obj\\",
+      "outputPath": "C:\\Users\\chamarthis\\Documents\\GitHub\\SaiExplore\\Sai\\hinfo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
