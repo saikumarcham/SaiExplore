@@ -1,0 +1,14 @@
+c:\users\chamarthis\source\repos\hinfo\hinfo\bin\Debug\netcoreapp2.1\hinfo.deps.json
+c:\users\chamarthis\source\repos\hinfo\hinfo\bin\Debug\netcoreapp2.1\hinfo.runtimeconfig.json
+c:\users\chamarthis\source\repos\hinfo\hinfo\bin\Debug\netcoreapp2.1\hinfo.runtimeconfig.dev.json
+c:\users\chamarthis\source\repos\hinfo\hinfo\bin\Debug\netcoreapp2.1\hinfo.dll
+c:\users\chamarthis\source\repos\hinfo\hinfo\bin\Debug\netcoreapp2.1\hinfo.pdb
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.csprojAssemblyReference.cache
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.csproj.CoreCompileInputs.cache
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.RazorAssemblyInfo.cache
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.RazorAssemblyInfo.cs
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.AssemblyInfoInputs.cache
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.AssemblyInfo.cs
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.RazorTargetAssemblyInfo.cache
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.dll
+c:\users\chamarthis\source\repos\hinfo\hinfo\obj\Debug\netcoreapp2.1\hinfo.pdb
